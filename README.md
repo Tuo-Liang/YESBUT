@@ -96,6 +96,7 @@ We collect and annotate images which convey various forms of visual humor and st
 
 ## Citation
 '''
+{
 @InProceedings{Xuan_2024_CVPR,
     author    = {Zhe Hu1, Tuo Liang21, Jing Li1, Yiren Lu2, Yunlai Zhou2, Yiran Qiao2, Jing Ma2, Yu Yin2},
     title     = {Cracking the Code of Juxtaposition: Can AI Models Understand the Humorous Contradictions},
@@ -103,6 +104,7 @@ We collect and annotate images which convey various forms of visual humor and st
     month     = {May},
     year      = {2024},
     pages     = {}
+}
 }
 '''
 
