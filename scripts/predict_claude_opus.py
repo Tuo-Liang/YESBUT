@@ -13,7 +13,7 @@ from instruction_generation_yesbut_1 import formulate_instruction
 from instruction_generation_yesbut_1 import *
 
 
-projectid = "plasma-light-423421-t2"
+projectid = "your projectid"
 
 
 LOCATION = "us-east5"
