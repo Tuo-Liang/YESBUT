@@ -14,7 +14,7 @@ We collect and annotate images which convey various forms of visual humor and st
 - Official YES-BUT Image Links: [Instagram](https://www.instagram.com/_yes_but/?hl=en), [Twitter](https://twitter.com/_yesbut_), Telegram
 
 ### Annotated data
-- The file is in /data/YesBut_data.json
+- [Download](https://github.com/Tuo-Liang/YESBUT/blob/main/data/YesBut_data.json)
 - The file has the fomat such as following.
 ```
  {
