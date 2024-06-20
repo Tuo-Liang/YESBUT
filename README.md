@@ -103,7 +103,7 @@ We collect and annotate images which convey various forms of visual humor and st
     month     = {May},
     year      = {2024},
     pages     = {}
-		}
+}
 ```
 
 
