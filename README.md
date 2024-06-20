@@ -6,7 +6,7 @@ This project offers the codes run in the Paper ([Arxiv](https://arxiv.org/pdf/24
 We aim to challenge AI systems in their ability to recognize and interpret visual humor, grasp nuances in human behavior, comprehend wordplay, and appreciate cultural references. This understanding can enhance AI's ability to interact with users, generate creative content, and interpret multimedia content more effectively, thereby improving user experience in various applications such as content recommendation systems, virtual assistants, and automated content creation tools.
 
 We collect and annotate images which convey various forms of visual humor and storytelling through simple comic panels. They explore themes such as human behavior, animal antics, and wordplay, often leading to unexpected or ironic conclusions.
-
+<div align='left'><img src="./samples/samples.png"  alt="NAME" width="100%"/></div>
 ## Dataset
 
 ### Data Collection of YES-BUT
