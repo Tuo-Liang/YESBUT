@@ -7,6 +7,7 @@ We aim to challenge AI systems in their ability to recognize and interpret visua
 
 We collect and annotate images which convey various forms of visual humor and storytelling through simple comic panels. They explore themes such as human behavior, animal antics, and wordplay, often leading to unexpected or ironic conclusions.
 <div align='left'><img src="./samples/samples.png"  alt="NAME" width="100%"/></div>
+
 ## Dataset
 
 ### Data Collection of YES-BUT
