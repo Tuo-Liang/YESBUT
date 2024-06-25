@@ -11,9 +11,9 @@ We collect and annotate images which convey various forms of visual humor and st
 ## Dataset
 
 ### Download
-- [Download](https://github.com/Tuo-Liang/YESBUT/blob/main/data/YesBut_data.json)
+- The dataset can be downloaded [here](https://github.com/Tuo-Liang/YESBUT/blob/main/data/YesBut_data.json).
 - As the copyright of original YESBUT images, We can't share the image dataset directly. We offer codes in [Download codes](https://github.com/Tuo-Liang/YESBUT/blob/main/Download/download_image.py) to download the images throught the url links we collected in our json file.
-- Further, we offer some codes to process these YesBut images in /utils.
+- Further, we offer scripts to process these YesBut images in /utils.
 
 ### Data Collection of YES-BUT
 - Official YES-BUT Image Links: [Instagram](https://www.instagram.com/_yes_but/?hl=en), [Twitter](https://twitter.com/_yesbut_), Telegram
@@ -97,12 +97,11 @@ We collect and annotate images which convey various forms of visual humor and st
 ## Citation
 ```
 @InProceedings{Xuan_2024_CVPR,
-    author    = {Zhe Hu1, Tuo Liang21, Jing Li1, Yiren Lu2, Yunlai Zhou2, Yiran Qiao2, Jing Ma2, Yu Yin2},
+    author    = {Zhe Hu, Tuo Liang, Jing Li, Yiren Lu, Yunlai Zhou, Yiran Qiao, Jing Ma, Yu Yin},
     title     = {Cracking the Code of Juxtaposition: Can AI Models Understand the Humorous Contradictions},
     booktitle = {arXiv preprint arXiv:2405}
     month     = {May},
     year      = {2024},
-    pages     = {}
 }
 ```
 
