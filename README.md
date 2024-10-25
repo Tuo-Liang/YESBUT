@@ -1,4 +1,4 @@
-# YESBUT
+# Cracking the Code of Juxtaposition
 This project offers the codes run in the Paper: **Cracking the Code of Juxtaposition: Can AI Models Understand the Humorous Contradictions** ([Arxiv](https://arxiv.org/pdf/2405.19088))
 
 ## Our Goals
