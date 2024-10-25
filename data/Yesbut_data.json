@@ -5914,5 +5914,23 @@
         "title_mcq_answer": "B",
         "url": "https://pbs.twimg.com/media/GHSN7oPXwAAGvlh?format=jpg&name=medium",
         "bounding_box": "[[[14, 16], [873, 585]], [[19, 615], [840, 1181]]]"
-    }
+    },
+    {
+        "image_file": "00387.jpg",
+        "description": "In the first panel, a bear invites a sloth to go trick or treating.The sloth politely declines, saying that he 'doesn't have a costume and can't keep up with the group.' In the second panel, the sloth finally puts on the costume (a bear cape), uses the cape and his face to achieve a perfect Halloween look, and joins the event with a Halloween pumpkin basket. The sloth says "yay" to express his happiness.",
+        "caption": "In the first panel, a bear invites a sloth to go trick or treating.The sloth politely declines, saying that he 'doesn't have a costume and can't keep up with the group.' In the second panel, the sloth finally puts on the costume (a bear cape), uses the cape and his face to achieve a perfect Halloween look, and joins the event with a Halloween pumpkin basket. The sloth says "yay" to express his happiness.",
+        "contradiction": "The contradiction in the comic lies in the sloth initially refusing to join trick-or-treating due to not having a costume and being slow, but then showing up dressed in the bear's cloak, participating despite its earlier excuse. This playful twist creates humor through the contrast between expectation and outcome."
+        "moral": "The comic satirizes how people make excuses to avoid participating, but with support, they often join in, showing that small efforts can shift someone’s perspective."
+        "title": "The Slowest Trick-or-Treater",
+        "neg_title": "['Why Halloween Was Cancelled This Year','A Sloth's Fear of Costumes','Bear and Sloth: The Fast and the Furious']",
+        "neg_moral": "['The comic teaches that dressing up is mandatory to fit in with social events.', 'The comic warns us that friends will pressure us into things we don’t want to do.', 'The lesson is that saying 'no' means people won’t respect your boundaries.']",
+        "category": "This comic can be categorized under friendship, encouragement, and overcoming reluctance, using humor to highlight how gentle support can inspire participation even when initial hesitation or self-doubt exists.",
+        "moral_mcq": "A. The comic teaches that dressing up is mandatory to fit in with social events.\nB. The comic warns us that friends will pressure us into things we don’t want to do.\nC. The lesson is that saying 'no' means people won’t respect your boundaries.\nD. The comic satirizes how people make excuses to avoid participating, but with support, they often join in, showing that small efforts can shift someone’s perspective.",
+        "moral_mcq_answer": "D",
+        "title_mcq": "A. The Slowest Trick-or-Treater\nB. Why Halloween Was Cancelled This Year\nC. A Sloth's Fear of Costumes\nD. Bear and Sloth: The Fast and the Furious",
+        "title_mcq_answer": "A",
+        "url": "https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Ffywu5emi7it71.jpg%3Fwidth%3D1080%26crop%3Dsmart%26auto%3Dwebp%26s%3D43a906fff58f7d979a8343776855a489c65e3f26",
+        "bounding_box": "[]"
+    },
+        
 ]
