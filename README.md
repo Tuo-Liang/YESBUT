@@ -1,12 +1,12 @@
 # Cracking the Code of Juxtaposition
-This project offers the codes run in the Paper: **Cracking the Code of Juxtaposition: Can AI Models Understand the Humorous Contradictions** ([Arxiv](https://arxiv.org/pdf/2405.19088))
+This project offers the codes run in the Paper: **Cracking the Code of Juxtaposition: Can AI Models Understand the Humorous Contradictions** (NeurIPS24 **Oral**)([Arxiv](https://arxiv.org/pdf/2405.19088))
 
 ## Our Goals
 
 We aim to challenge AI systems in their ability to recognize and interpret visual humor, grasp nuances in human behavior, comprehend wordplay, and appreciate cultural references. This understanding can enhance AI's ability to interact with users, generate creative content, and interpret multimedia content more effectively, thereby improving user experience in various applications such as content recommendation systems, virtual assistants, and automated content creation tools.
 
 We collect and annotate images which convey various forms of visual humor and storytelling through simple comic panels. They explore themes such as human behavior, animal antics, and wordplay, often leading to unexpected or ironic conclusions.
-<div align='left'><img src="./samples/samples.png"  alt="NAME" width="100%"/></div>
+<div align='left'><img src="./samples/samples.jpg"  alt="NAME" width="100%"/></div>
 
 ## Dataset
 
