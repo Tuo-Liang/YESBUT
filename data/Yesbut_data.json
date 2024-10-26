@@ -5932,5 +5932,148 @@
         "url": "https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Ffywu5emi7it71.jpg%3Fwidth%3D1080%26crop%3Dsmart%26auto%3Dwebp%26s%3D43a906fff58f7d979a8343776855a489c65e3f26",
         "bounding_box": "[]"
     },
+     {
+        "image_file": "00388.jpg",
+        "url": "https://m.media-amazon.com/images/I/619Nm3xnQGL._AC_SL1500_.jpg",
+        "description": "The comic depicts two police officers at a crime scene. In the first panel, one officer is speaking into his radio, reporting that the victim was brutally sliced into multiple pieces. However, the second panel humorously reveals the misunderstanding: the 'crime scene' is just a hopscotch outline on the ground.",
+        "contradiction": "The comic plays on the mismatch between the grim assumption and the innocent reality.",
+        "moral": "The comic highlights how people often jump to conclusions based on incomplete information, emphasizing the importance of verifying facts.",
+        "title": "Hopscotch Horror: A Misunderstanding",
+        "neg_title": [
+            "A Detective's Worst Nightmare",
+            "The Puzzle of the Crime Scene",
+            "Grim Discovery"
+        ],
+        "neg_moral": [
+            "Making assumptions quickly solves problems.",
+            "Dramatic reports are always accurate.",
+            "All situations are as dangerous as they first appear."
+        ],
+        "category": "misinterpretation and assumptions",
+        "title_mcq": "A. Hopscotch Horror: A Misunderstanding\nB. A Detective's Worst Nightmare\nC. The Puzzle of the Crime Scene\nD. Grim Discovery\n",
+        "title_mcq_answer": "A",
+        "moral_mcq": "DAll situations are as dangerous as they first appear.\n",
+        "moral_mcq_answer": "A",
+        "caption": "The comic depicts two police officers at a crime scene. In the first panel, one officer is speaking into his radio, reporting that the victim was brutally sliced into multiple pieces. However, the second panel humorously reveals the misunderstanding: the 'crime scene' is just a hopscotch outline on the ground."
+    },
+    {
+        "image_file": "00389.jpg",
+        "url": "https://pbs.twimg.com/media/F7vXoobaUAATCyO?format=jpg&name=medium",
+        "description": "A raccoon sits outside, gazing at the moon, wondering aloud, 'What's behind the moon?' The raccoon imagines a beautiful scene, but the comic humorously reveals the moon\u2019s backside to be a comically exposed butt.",
+        "contradiction": "The contrast between the raccoon's elegant imagination and the funny reality adds humor and irony.",
+        "moral": "The comic satirizes how expectations don\u2019t always align with reality.",
+        "title": "What's Behind the Moon? Not What You'd Expect!",
+        "neg_title": [
+            "A Journey to the Beautiful Side of the Moon",
+            "The Hidden Secrets of the Moon Revealed!",
+            "The Enchanted World Beyond the Moon"
+        ],
+        "neg_moral": [
+            "The moon holds magical beauty.",
+            "Dreams about the unknown are always true.",
+            "Trust your imagination over reality."
+        ],
+        "category": "imagination versus reality",
+        "title_mcq": "A. What's Behind the Moon? Not What You'd Expect!\nB. A Journey to the Beautiful Side of the Moon\nC. The Hidden Secrets of the Moon Revealed!\nD. The Enchanted World Beyond the Moon\n",
+        "title_mcq_answer": "A",
+        "moral_mcq": "DTrust your imagination over reality.\n",
+        "moral_mcq_answer": "A",
+        "caption": "A raccoon sits outside, gazing at the moon, wondering aloud, 'What's behind the moon?' The raccoon imagines a beautiful scene, but the comic humorously reveals the moon\u2019s backside to be a comically exposed butt."
+    },
+    {
+        "image_file": "00390.jpg",
+        "url": "https://pbs.twimg.com/media/F7k7qQ0a4AACD_R?format=jpg&name=medium",
+        "description": "The comic shows a race between a turtle and a chameleon. The turtle is about to win, but the chameleon extends its tongue, pulling the turtle back and leaping forward to win.",
+        "contradiction": "The comic twists the expected outcome of the turtle's victory, showcasing the chameleon's advantage.",
+        "moral": "Using your unique strengths, even unconventionally, can change outcomes.",
+        "title": "Winning with a Twist: The Chameleon's Advantage",
+        "neg_title": [
+            "Slow and Steady Wins the Race, Again!",
+            "The Power of Determination: Turtle's Victory",
+            "When Hard Work Beats Unfair Tricks"
+        ],
+        "neg_moral": [
+            "Cheating is the best way to win.",
+            "Being slow and steady always leads to victory.",
+            "Hard work is always rewarded fairly."
+        ],
+        "category": "competition and unexpected twists",
+        "title_mcq": "A. Winning with a Twist: The Chameleon's Advantage\nB. Slow and Steady Wins the Race, Again!\nC. The Power of Determination: Turtle's Victory\nD. When Hard Work Beats Unfair Tricks\n",
+        "title_mcq_answer": "A",
+        "moral_mcq": "DHard work is always rewarded fairly.\n",
+        "moral_mcq_answer": "A",
+        "caption": "The comic shows a race between a turtle and a chameleon. The turtle is about to win, but the chameleon extends its tongue, pulling the turtle back and leaping forward to win."
+    },
+    {
+        "image_file": "00391.jpg",
+        "url": "https://i.pinimg.com/736x/7a/13/7a/7a137a70249e0e95094a319fd855a16e.jpg",
+        "description": "In two panels, the comic contrasts humanity\u2019s exploitation of nature and nature\u2019s retaliation. First, a man happily tries to chop down a tree, distressing the anthropomorphic tree. In the next panel, the man is fleeing from an angry sun holding a flamethrower.",
+        "contradiction": "The comic illustrates the humorous irony of human actions backfiring.",
+        "moral": "The comic emphasizes how exploiting nature can lead to unforeseen consequences.",
+        "title": "Nature Strikes Back!",
+        "neg_title": [
+            "How to Make Friends with Trees",
+            "Nature's Friendly Reminders",
+            "The Secret Life of Trees"
+        ],
+        "neg_moral": [
+            "Humans can exploit nature without consequence.",
+            "Trees exist for human enjoyment.",
+            "The sun has no authority over humans."
+        ],
+        "category": "environmental awareness",
+        "title_mcq": "A. Nature Strikes Back!\nB. How to Make Friends with Trees\nC. Nature's Friendly Reminders\nD. The Secret Life of Trees\n",
+        "title_mcq_answer": "A",
+        "moral_mcq": "DThe sun has no authority over humans.\n",
+        "moral_mcq_answer": "A",
+        "caption": "In two panels, the comic contrasts humanity\u2019s exploitation of nature and nature\u2019s retaliation. First, a man happily tries to chop down a tree, distressing the anthropomorphic tree. In the next panel, the man is fleeing from an angry sun holding a flamethrower."
+    },
+    {
+        "image_file": "00392.jpg",
+        "url": "https://i.pinimg.com/564x/58/35/d8/5835d8ec85985f65d54816b003129a72.jpg",
+        "description": "This comic contrasts technology and lifestyles from 1990 to 2011. In 1990, a man stands thin next to a large, bulky TV. By 2011, the TV becomes sleek and flat, but the man has gained weight.",
+        "contradiction": "The visual irony lies in technology becoming slimmer while the man becomes heavier.",
+        "moral": "The comic satirizes how modern conveniences contribute to sedentary lifestyles.",
+        "title": "Tech Slims Down, But Humans Bulk Up",
+        "neg_title": [
+            "The Benefits of Modern Technology",
+            "Fitness Through the Ages",
+            "Smaller TVs Lead to Healthier Living"
+        ],
+        "neg_moral": [
+            "Technology improves human health.",
+            "People become more active with modern tech.",
+            "Flat-screen TVs encourage exercise."
+        ],
+        "category": "lifestyle changes and technology",
+        "title_mcq": "A. Tech Slims Down, But Humans Bulk Up\nB. The Benefits of Modern Technology\nC. Fitness Through the Ages\nD. Smaller TVs Lead to Healthier Living\n",
+        "title_mcq_answer": "A",
+        "moral_mcq": "DFlat-screen TVs encourage exercise.\n",
+        "moral_mcq_answer": "A",
+        "caption": "This comic contrasts technology and lifestyles from 1990 to 2011. In 1990, a man stands thin next to a large, bulky TV. By 2011, the TV becomes sleek and flat, but the man has gained weight."
+    },
+    {
+        "url": "https://i.pinimg.com/736x/dc/80/a0/dc80a06efbc17b45142d7314a8a1a635.jpg",
+        "description": "This comic compares meals from the 19th and 21st centuries. In the 19th century, a family prays over a simple meal, while in the 21st century, a modern family eats elaborate food but is glued to their smartphones.",
+        "contradiction": "The irony lies in the shift from spiritual connection to technological isolation.",
+        "moral": "The comic critiques how technology has replaced meaningful family interactions.",
+        "title": "From Grace to Gadgets: The Modern Meal",
+        "neg_title": [
+            "How Technology Improved Family Communication",
+            "The Benefits of Multitasking During Meals",
+            "Why Smartphones Make Family Meals Enjoyable"
+        ],
+        "neg_moral": [
+            "Smartphones enhance family communication.",
+            "Technology improves meal interactions.",
+            "Modern families are more connected now."
+        ],
+        "category": "technology and human relationships",
+        "title_mcq": "A. From Grace to Gadgets: The Modern Meal\nB. How Technology Improved Family Communication\nC. The Benefits of Multitasking During Meals\nD. Why Smartphones Make Family Meals Enjoyable\n",
+        "title_mcq_answer": "A",
+        "moral_mcq": "DModern families are more connected now.\n",
+        "moral_mcq_answer": "A",
+        "caption": "This comic compares meals from the 19th and 21st centuries. In the 19th century, a family prays over a simple meal, while in the 21st century, a modern family eats elaborate food but is glued to their smartphones."
+    }
         
 ]
