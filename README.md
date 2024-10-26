@@ -1,9 +1,11 @@
 # Cracking the Code of Juxtaposition: Can AI Models Understand the Humorous Contradictions (NeurIPS'24 Oral)
 
 This is an official pytorch implementation of our paper:
+
 Hu Z, Liang T, Li J, Lu Y, Zhou Y, Qiao Y, Ma J, Yin Y., **Cracking the Code of Juxtaposition: Can AI Models Understand the Humorous Contradictions**, NeurIPS, 2024.
 
-### [[Paper](https://arxiv.org/pdf/2405.19088) [Arxiv](https://arxiv.org/pdf/2405.19088) [Webpage](https://vulab-ai.github.io/YESBUT_Homepage/)]
+### [[Paper](https://neurips.cc/virtual/2024/oral/97967)] [[Arxiv](https://arxiv.org/pdf/2405.19088)] [[Webpage](https://vulab-ai.github.io/YESBUT_Homepage/)]
+
 
 ## Our Goals
 
@@ -15,14 +17,23 @@ We collect and annotate images which convey various forms of visual humor and st
 ## Dataset
 
 ### Download
-- The Annotation can be downloaded [here](https://github.com/Tuo-Liang/YESBUT/blob/main/data/Yesbut_data.json).
-- The images can be downloaded using:
+- Annotation File
+
+The annotated data is available [here: data/YesBut_data.json](https://github.com/Tuo-Liang/YESBUT/blob/main/data/YesBut_data.json).
+
+- Image Download
+
+Download the associated images by running the following command:
+
 ```
-python download_images.py --json='data/YesBut_data.json' --save_folder='data/YesBut_images'
+python download_images.py --json_file='data/YesBut_data.json' --save_folder='data/YesBut_images'
 ```
 
+This will save the images to the specified `data/YesBut_images` folder.
+
+
 ### Annotated data format
-- The file is in /data/YesBut_data.json
+- The file is in `/data/YesBut_data.json`
 - The file has the format such as following.
 ```
  {

@@ -2,6 +2,7 @@ import json
 import requests
 import os
 import sys
+import argparse
 
 def download_images(json_file, folder='images'):
     # Ensure the folder exists
@@ -27,7 +28,10 @@ def download_images(json_file, folder='images'):
         except requests.exceptions.RequestException as e:
             print(f"Error downloading {d['url']}: {e}")
 
-# Usage
-json_file = 'YesBut_data.json'
-folder = 'images'
-download_images(json_file, folder)
+if __name__ == '__main__':
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--json_file', type=str, default='data/YesBut_data.json', help="annotation file")
+    parser.add_argument('--save_folder', type=str, default='data/YesBut_images')
+
+    opt = parser.parse_args()
+    download_images(json_file=opt.json_file, folder=opt.save_folder)
