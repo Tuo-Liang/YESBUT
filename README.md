@@ -18,17 +18,13 @@ We collect and annotate images which convey various forms of visual humor and st
 
 ### Download
 - Annotation File
-
 The annotated data is available [here: data/YesBut_data.json](https://github.com/Tuo-Liang/YESBUT/blob/main/data/YesBut_data.json).
 
 - Image Download
-
 Download the associated images by running the following command:
-
 ```
 python download_images.py --json_file='data/YesBut_data.json' --save_folder='data/YesBut_images'
 ```
-
 This will save the images to the specified `data/YesBut_images` folder.
 
 
