@@ -1,4 +1,4 @@
-- Zhe
+- Prompts Set 1
 {
     "prompts_caption_gen":[
         "The given comic shows the same situation from two opposite sides with contradictions. Write a one-paragraph literal description to describe the narrative of the comic."
@@ -24,7 +24,7 @@
 }
 
 
-- Yu 
+- Prompts Set 2 
 {
     "prompts_caption_gen":[
         "Please literally describe the context of the image in detail."
@@ -49,7 +49,7 @@
     ]
 }
 
-- Tuo
+- Prompts Set 3
 {
     "prompts_caption_gen":[
         "Give me a detailed literally description of the image."

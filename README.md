@@ -1,5 +1,9 @@
-# Cracking the Code of Juxtaposition
-This project offers the codes run in the Paper: **Cracking the Code of Juxtaposition: Can AI Models Understand the Humorous Contradictions** (NeurIPS24 **Oral**)([Arxiv](https://arxiv.org/pdf/2405.19088))
+# Cracking the Code of Juxtaposition: Can AI Models Understand the Humorous Contradictions (NeurIPS'24 Oral)
+
+This is an official pytorch implementation of our paper:
+Hu Z, Liang T, Li J, Lu Y, Zhou Y, Qiao Y, Ma J, Yin Y., **Cracking the Code of Juxtaposition: Can AI Models Understand the Humorous Contradictions**, NeurIPS, 2024.
+
+### [[Paper](https://arxiv.org/pdf/2405.19088) [Arxiv](https://arxiv.org/pdf/2405.19088) [Webpage](https://vulab-ai.github.io/YESBUT_Homepage/)]
 
 ## Our Goals
 
@@ -12,7 +16,10 @@ We collect and annotate images which convey various forms of visual humor and st
 
 ### Download
 - The Annotation can be downloaded [here](https://github.com/Tuo-Liang/YESBUT/blob/main/data/Yesbut_data.json).
-- As the copyright of original YESBUT images, We do not share the images directly.
+- The images can be downloaded using:
+```
+python download_images.py --json='data/YesBut_data.json' --save_folder='data/YesBut_images'
+```
 
 ### Annotated data format
 - The file is in /data/YesBut_data.json
