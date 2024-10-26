@@ -11,7 +11,7 @@ We collect and annotate images which convey various forms of visual humor and st
 ## Dataset
 
 ### Download
-- The Annotation can be downloaded [here](https://github.com/Tuo-Liang/YESBUT/blob/main/data/YesBut_data.json).
+- The Annotation can be downloaded [here](https://github.com/Tuo-Liang/YESBUT/blob/main/data/Yesbut_data.json).
 - As the copyright of original YESBUT images, We do not share the images directly.
 
 ### Annotated data format
