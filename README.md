@@ -108,7 +108,7 @@ This will save the images to the specified `data/YesBut_images` folder.
 
 ## Evaluation
 Modify the "predict_model_name.sh".
-'''
+```
 #Task claude3 as an example
 data="annotated_data/data_annotation.json"
 image_folder="YESBUT_cropped_yesbut"
@@ -128,12 +128,12 @@ python3 -u predict_claude_opus.py \
     --use_caption ${use_caption} \
     --image_folder ${image_folder}
 
-'''
+```
 
 Then run the command:
-'''
+```
 bash predict_model_name.sh
-'''
+```
 
 ## Citation
 ```
