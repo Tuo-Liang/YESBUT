@@ -4,7 +4,8 @@ This repository provides the official *data release* and *code implementation* o
 
 Hu Z, Liang T, Li J, Lu Y, Zhou Y, Qiao Y, Ma J, Yin Y., **Cracking the Code of Juxtaposition: Can AI Models Understand the Humorous Contradictions**, NeurIPS, 2024.
 
-### [[Paper](https://neurips.cc/virtual/2024/oral/97967)] [[Arxiv](https://arxiv.org/pdf/2405.19088)] [[Webpage](https://vulab-ai.github.io/YESBUT_Homepage/)]
+### [[Paper](https://neurips.cc/virtual/2024/oral/97967)] [[Arxiv](https://arxiv.org/pdf/2405.19088)] [[Webpage](https://vulab-ai.github.io/YESBUT_Homepage/)] [[Dataset](https://huggingface.co/datasets/zhehuderek/YESBUT_Benmark)]
+
 
 
 ## Our Goals
