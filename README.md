@@ -7,7 +7,7 @@ This repository provides the official *data release* and *code implementation* o
 Zhe Hu, Tuo Liang, Jing Li, Yiren Lu, Yunlai Zhou, Yiran Qiao, Jing Ma, Yu Yin
 
 
-### [[Paper](https://neurips.cc/virtual/2024/oral/97967)] [[Arxiv](https://arxiv.org/pdf/2405.19088)] [[Webpage](https://vulab-ai.github.io/YESBUT_Homepage/)] [[Dataset](https://huggingface.co/datasets/zhehuderek/YESBUT_Benmark)]
+### [[Paper](https://neurips.cc/virtual/2024/oral/97967)] [[Arxiv](https://arxiv.org/pdf/2405.19088)] [[Webpage](https://vulab-ai.github.io/YESBUT_Homepage/)] [[Dataset](https://huggingface.co/datasets/zhehuderek/YESBUT_Benchmark)]
 
 
 
