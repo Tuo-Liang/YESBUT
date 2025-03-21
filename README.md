@@ -1,5 +1,5 @@
 # Latest Version: 
-## [YESBUT_v2](https://github.com/Tuo-Liang/YESBUT_V2)
+## We have already updated the YESBUT dataset. We now have a larger and more comprehensive dataset. [[YESBUT_v2](https://github.com/Tuo-Liang/YESBUT_V2)]
 
 # Cracking the Code of Juxtaposition: Can AI Models Understand the Humorous Contradictions (NeurIPS'24 Oral)
 
