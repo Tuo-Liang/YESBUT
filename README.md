@@ -1,3 +1,6 @@
+# Latest Version: 
+[YESBUT_v2](https://github.com/Tuo-Liang/YESBUT_V2)
+
 # Cracking the Code of Juxtaposition: Can AI Models Understand the Humorous Contradictions (NeurIPS'24 Oral)
 
 This repository provides the official *data release* and *code implementation* of our paper:
